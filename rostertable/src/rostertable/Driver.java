@@ -4,7 +4,6 @@ public class Driver {
 
 	public static void main(String[] args) {
 		int days =3;
-		//array list of arraylists
 		ArrayList<ArrayList<String>> roster =
 				new ArrayList<ArrayList<String>>(days);
 		//each sub-arraylist
@@ -28,7 +27,7 @@ public class Driver {
 	}
 
 	private static void getDays(ArrayList<ArrayList<String>> roster, String string) {
-		// TODO Auto-generated method stub
+		
 		
 	}
 	
